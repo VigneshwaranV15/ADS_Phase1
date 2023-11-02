@@ -1,2 +1,1 @@
-# ADS_Phase1
-Phase_1 submission 
+# future sale prediction(readme)
